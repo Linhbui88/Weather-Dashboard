@@ -1,0 +1,2 @@
+TThis app allows the user to search for a city and displays the current weather conditions as well as 5-day forecast. Also uses local storage to save a history of cities for which the user has previously searched
+```
